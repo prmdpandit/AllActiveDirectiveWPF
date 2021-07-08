@@ -5,25 +5,7 @@
 <link rel="stylesheet" type="text/css" href="description/adcf341d-3f1e-4a69-8c58-f7a53ffcf1bdCombined.css,0:HeaderFooterSprite,0:Footer.NonMtps,1:LinkList;/Areas/Centers/Themes/StandardDevCenter/Content:0,/Areas/Epx/Themes/Base/Content:1&amp;amp;hashKey=400B4048FC6DD81C6C2705AF12442ECA" xmlns="http://www.w3.org/1999/xhtml" />
 <link type="text/css" rel="stylesheet" xmlns="http://www.w3.org/1999/xhtml" />
 
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-        <title>All Active directory Operation C#.net WPF List box</title>
-        <link href="description/Galleries.css" type="text/css" rel="Stylesheet" /><link href="description/Layout.css" type="text/css" rel="Stylesheet" /><link href="description/Brand.css" type="text/css" rel="Stylesheet" />
-        <link href="description/iframedescription.css" rel="Stylesheet" type="text/css" />
-        <script src="description/offline.js" type="text/javascript"></script>
-        <style type="text/css">
-            #projectInfo {
-                overflow: auto;
-            }
-            #longDesc {
-                clear:both;
-                margin: 25px 0 10px 0;
-            }
-
-            #SampleIndexList{
-                margin-left: 15px;
-            }
-        </style>
-    </head>
+        
 <body>
     <div id="offlineDescription">
         <h1>All Active directory Operation C#.net WPF List box</h1>
