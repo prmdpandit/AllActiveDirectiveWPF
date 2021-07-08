@@ -1,0 +1,31 @@
+C:\Users\Pramod\Desktop\My Personal Document\Thesis\POCofActivedirctory\POCofActivedirctory\bin\Debug\POCofActivedirctory.exe
+C:\Users\Pramod\Desktop\My Personal Document\Thesis\POCofActivedirctory\POCofActivedirctory\bin\Debug\POCofActivedirctory.pdb
+C:\Users\Pramod\Desktop\My Personal Document\Thesis\POCofActivedirctory\POCofActivedirctory\obj\x86\Debug\Interop.ActiveDs.dll
+C:\Users\Pramod\Desktop\My Personal Document\Thesis\POCofActivedirctory\POCofActivedirctory\obj\x86\Debug\POCofActivedirctory.csproj.ResolveComReference.cache
+C:\Users\Pramod\Desktop\My Personal Document\Thesis\POCofActivedirctory\POCofActivedirctory\obj\x86\Debug\MainWindow.baml
+C:\Users\Pramod\Desktop\My Personal Document\Thesis\POCofActivedirctory\POCofActivedirctory\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pramod\Desktop\My Personal Document\Thesis\POCofActivedirctory\POCofActivedirctory\obj\x86\Debug\App.g.cs
+C:\Users\Pramod\Desktop\My Personal Document\Thesis\POCofActivedirctory\POCofActivedirctory\obj\x86\Debug\POCofActivedirctory_MarkupCompile.cache
+C:\Users\Pramod\Desktop\My Personal Document\Thesis\POCofActivedirctory\POCofActivedirctory\obj\x86\Debug\POCofActivedirctory.g.resources
+C:\Users\Pramod\Desktop\My Personal Document\Thesis\POCofActivedirctory\POCofActivedirctory\obj\x86\Debug\POCofActivedirctory.Properties.Resources.resources
+C:\Users\Pramod\Desktop\My Personal Document\Thesis\POCofActivedirctory\POCofActivedirctory\obj\x86\Debug\POCofActivedirctory.csproj.GenerateResource.Cache
+C:\Users\Pramod\Desktop\My Personal Document\Thesis\POCofActivedirctory\POCofActivedirctory\obj\x86\Debug\POCofActivedirctory.exe
+C:\Users\Pramod\Desktop\My Personal Document\Thesis\POCofActivedirctory\POCofActivedirctory\obj\x86\Debug\POCofActivedirctory.pdb
+C:\Users\Pramod\Desktop\My Personal Document\Thesis\POCofActivedirctory\POCofActivedirctory\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Pramod\Desktop\My Personal Document\Thesis\POCofActivedirctory\POCofActivedirctory\obj\x86\Debug\POCofActivedirctory_MarkupCompile.lref
+G:\R2 Work rnd\My Personal Document\Thesis\POCofActivedirctory\POCofActivedirctory\obj\x86\Debug\Interop.ActiveDs.dll
+G:\R2 Work rnd\My Personal Document\Thesis\POCofActivedirctory\POCofActivedirctory\obj\x86\Debug\POCofActivedirctory.csproj.ResolveComReference.cache
+G:\R2 Work rnd\My Personal Document\Thesis\POCofActivedirctory\POCofActivedirctory\obj\x86\Debug\POCofActivedirctory.exe
+G:\R2 Work rnd\My Personal Document\Thesis\POCofActivedirctory\POCofActivedirctory\obj\x86\Debug\POCofActivedirctory.pdb
+G:\R2 Work rnd\My Personal Document\Thesis\POCofActivedirctory\POCofActivedirctory\bin\Debug\POCofActivedirctory.exe
+G:\R2 Work rnd\My Personal Document\Thesis\POCofActivedirctory\POCofActivedirctory\bin\Debug\POCofActivedirctory.pdb
+G:\R2 Work rnd\My Personal Document\Thesis\POCofActivedirctory\POCofActivedirctory\obj\x86\Debug\POCofActivedirctory.csprojResolveAssemblyReference.cache
+G:\R2 Work rnd\My Personal Document\Thesis\POCofActivedirctory\POCofActivedirctory\obj\x86\Debug\MainWindow.g.cs
+G:\R2 Work rnd\My Personal Document\Thesis\POCofActivedirctory\POCofActivedirctory\obj\x86\Debug\App.g.cs
+G:\R2 Work rnd\My Personal Document\Thesis\POCofActivedirctory\POCofActivedirctory\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+G:\R2 Work rnd\My Personal Document\Thesis\POCofActivedirctory\POCofActivedirctory\obj\x86\Debug\POCofActivedirctory_MarkupCompile.cache
+G:\R2 Work rnd\My Personal Document\Thesis\POCofActivedirctory\POCofActivedirctory\obj\x86\Debug\POCofActivedirctory_MarkupCompile.lref
+G:\R2 Work rnd\My Personal Document\Thesis\POCofActivedirctory\POCofActivedirctory\obj\x86\Debug\MainWindow.baml
+G:\R2 Work rnd\My Personal Document\Thesis\POCofActivedirctory\POCofActivedirctory\obj\x86\Debug\POCofActivedirctory.g.resources
+G:\R2 Work rnd\My Personal Document\Thesis\POCofActivedirctory\POCofActivedirctory\obj\x86\Debug\POCofActivedirctory.Properties.Resources.resources
+G:\R2 Work rnd\My Personal Document\Thesis\POCofActivedirctory\POCofActivedirctory\obj\x86\Debug\POCofActivedirctory.csproj.GenerateResource.Cache

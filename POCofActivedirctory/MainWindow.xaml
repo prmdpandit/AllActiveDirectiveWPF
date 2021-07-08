@@ -1,0 +1,45 @@
+﻿<Window x:Class="POCofActivedirctory.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+          xmlns:c="clr-namespace:POCofActivedirctory" 
+        Title="MainWindow" Height="650" Width="825" Loaded="Window_Loaded">
+    <Grid>
+        <StackPanel>
+        <TabControl  HorizontalAlignment="Left"  Name="tabControl1" VerticalAlignment="Top" Height="800" Width="800">
+                <TabItem Header="User" Name="tbUser" >
+                <Grid>
+                        <ListBox  HorizontalAlignment="Left"  Name="lstUser" VerticalAlignment="Top" Height="600" Width="200"  />
+                        <TextBox Height="55" HorizontalAlignment="Left" Margin="359,15,0,0" Name="txtUserName" VerticalAlignment="Top" Width="425" />
+                        <Label Content="User name" Height="47" HorizontalAlignment="Left" Margin="206,15,0,0" Name="label1" VerticalAlignment="Top" Width="131" />
+                        <Button Content="Add" Height="23" HorizontalAlignment="Left" Margin="245,174,0,0" Name="Add" VerticalAlignment="Top" Width="75" Click="Add_Click" />
+                        <Button Content="Delete" Height="23" HorizontalAlignment="Left" Margin="346,174,0,0" Name="Delete" VerticalAlignment="Top" Width="75" Click="Delete_Click" />
+                        <Label Content="Password" Height="47" HorizontalAlignment="Left" Margin="206,76,0,0" Name="label3" VerticalAlignment="Top" Width="131" />
+                        <PasswordBox Height="47" HorizontalAlignment="Left" Margin="359,76,0,0" Name="txtpwd" VerticalAlignment="Top" Width="425" />
+                    </Grid>
+            </TabItem>
+                <TabItem Header="Group" Name="tbGroup" >
+                    <Grid>
+                    <ListBox  HorizontalAlignment="Left"  Name="lstGroup" VerticalAlignment="Top" Height="600" Width="200" SelectionChanged="lstGroup_SelectionChanged" />
+                        <TextBox Height="55" HorizontalAlignment="Left" Margin="359,15,0,0" Name="txtgname" VerticalAlignment="Top" Width="425" />
+                        <Label Content="User name" Height="47" HorizontalAlignment="Left" Margin="206,15,0,0" Name="label2" VerticalAlignment="Top" Width="131" />
+                        <Button Content="Add" Height="23" HorizontalAlignment="Left" Margin="219,545,0,0" Name="gAdd" VerticalAlignment="Top" Width="75" Click="gAdd_Click" />
+                        <Button Content="Delete" Height="23" HorizontalAlignment="Left" Margin="347,545,0,0" Name="gDelete" VerticalAlignment="Top" Width="75" Click="gDelete_Click" />
+                        <ListBox c:DragAndDrop.DropEnabled="True" Height="373" HorizontalAlignment="Left" Margin="556,119,0,0" Name="lstGroupUser" VerticalAlignment="Top" Width="203" >
+                            <ListBox.ContextMenu>
+                                <ContextMenu>
+                                    <MenuItem Header="Remove" Name="RemoveFromGroup" Click="RemoveFromGroup_Click">
+
+                                    </MenuItem>
+
+                                </ContextMenu>
+                            </ListBox.ContextMenu>
+                        </ListBox>
+                        <ListBox c:DragAndDrop.DragEnabled="True" Height="361" HorizontalAlignment="Left" Margin="219,131,0,0" Name="lstNotconnectgroupuser" VerticalAlignment="Top" Width="253" />
+                        <TextBlock Height="23" HorizontalAlignment="Left" Margin="219,102,0,0" Name="textBox2" VerticalAlignment="Top" Width="120" Text="Not Connected User" />
+                        <TextBlock Height="23" HorizontalAlignment="Left" Margin="556,94,0,0" Name="textBox3" VerticalAlignment="Top" Width="231" Text="Connected User of selected Group" />
+                    </Grid>
+                </TabItem>
+        </TabControl>
+        </StackPanel>
+    </Grid>
+</Window>
